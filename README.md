@@ -1,7 +1,7 @@
 # BBB URL Testing Environment
 
 This tool deliverable consists of the implementation of an experiment and test environment that accesses client data and tests and records findings.
-Contains three python scripts(StatusCodeChecker.py, SyntaxChecker.py, URLVerification.py).
+Contains three python scripts (StatusCodeChecker.py, SyntaxChecker.py, URLVerification.py).
 Further explanation is present on sphinx documentation found in this repository.
 ## Installation
 
