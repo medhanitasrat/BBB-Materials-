@@ -7,10 +7,10 @@ Contains three python scripts (StatusCodeChecker.py, SyntaxChecker.py, URLVerifi
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages.
 
-For example to install csv type in the folllowing command.
+For example to install requests type in the folllowing command:
 
 ```bash
-pip install csv
+pip install requests
 ```
 
 [csv](https://pypi.org/project/python-csv/) - to read the .csv files  
