@@ -2,11 +2,16 @@
 
 This tool deliverable consists of the implementation of an experiment and test environment that accesses client data and tests and records findings.
 Contains three python scripts (StatusCodeChecker.py, SyntaxChecker.py, URLVerification.py).
-Further explanation is present on sphinx documentation found in this repository.
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages.
 
+For example to install csv type in the folllowing command.
+
+```bash
+pip install csv
+```
 
 [csv](https://pypi.org/project/python-csv/) - to read the .csv files  
 
@@ -24,6 +29,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the nec
 ## Usage
 
 Install the above packages to run the program.
+Main method is present in **URLVerification.py**, which uses funtions from **SyntaxChecker.py** and **StatusCodeChecker.py**. It reads the csv that contains just the URLs of buisnesses and analyzes the syntax and http error of each URL and records them.
 
 On **URLVerification.py** add the base directory and file name on lines 7 and 16 respectively
 ```bash
