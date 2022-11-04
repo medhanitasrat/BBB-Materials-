@@ -25,7 +25,7 @@ pip install requests
 
 [repeat](https://pypi.org/project/repeat/) from [intertools](https://docs.python.org/3/library/itertools.html) - repeat the elements of the URLs in the list and the header to perform threading
 
-For further description on those packages, click on the package name. 
+_For further description on those packages, click on the package name. 
 
 
 ## Usage
