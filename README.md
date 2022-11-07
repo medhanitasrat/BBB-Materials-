@@ -37,7 +37,7 @@ _For further description on those packages, click on the package name._
 ## Usage
 
 Install the above packages to run the program.
-Main method is present in **URLVerification.py**, which uses funtions from **SyntaxChecker.py** and **StatusCodeChecker.py**. It reads the csv that contains just the URLs of buisnesses and analyzes the syntax and http error of each URL and records them.
+Main method is present in **URLVerification.py**, which uses funtions from **SyntaxChecker.py** and **StatusCodeChecker.py**. It reads the csv file that contains just the URLs of buisnesses and analyzes the syntax and http error of each URL and records them.
 
 On **URLVerification.py** add the base directory and file name on lines 7 and 16 respectively
 ```bash
