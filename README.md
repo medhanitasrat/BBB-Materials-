@@ -3,7 +3,7 @@
 This tool deliverable consists of the implementation of an experiment and test environment that accesses client data and tests and records findings.
 The testing environment contains three python scripts (StatusCodeChecker.py, SyntaxChecker.py, URLVerification.py). More details are available on a sphinx documentation. 
 
-## Accessing Sphinx Documentaion
+## Accessing Sphinx Documentation
 
 1) Go to the html folder (You might need to download the folder on your device before opening it)
 2) Click on index.html
