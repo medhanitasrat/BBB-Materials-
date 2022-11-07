@@ -6,6 +6,7 @@ def check_syntax(url):
     """
     A function that checks if the url matches the general syntax of URL.
     It includes two possible regular expressions, one for URLs that start with http/https and one for URLs that don't.
+    
     :param url: The URL bring checked
     :return: returns true if the passed url matches the both of the expected pattern and false otherwise
     """
@@ -23,6 +24,7 @@ def fix(url):
     """
     This function tries to correct the syntax of a URL.
     It utilizes re to fix some errors that are detected within the URL.
+    
     :param url: url to be fixed
     :return: The new url with the correct syntax
     """
@@ -49,6 +51,7 @@ def verify(url):
     """
     This method checks if the URLs that have gone through the fixing process have actually been fixed.
     It first checks if the URL is valid, if not it tries to fix it and checks if it actually has been fixed
+    
     :param url: the URL being verified
     :return: returns true and the url if the URL is valid in the first place, returns true and the fixed url if the url
              has been fixed and is now valid, and returns false and the url if the fixing process didn't work and the
