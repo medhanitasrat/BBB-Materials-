@@ -41,7 +41,7 @@ Main method is present in **URLVerification.py**, which uses funtions from **Syn
 
 On **URLVerification.py** add the base directory and file name on lines 7 and 16 respectively
 ```bash
- 7  base_dir = 'Enter the base directory here(where the file you want to read is located/where you want to write the new file)'
+7  base_dir = 'Enter the base directory here(where the file you want to read is located/where you want to write the new file)'
 .
 .
 .
