@@ -37,6 +37,7 @@ def main():
 def opener(base_dir, file_name, b_id_list, url_id_list, url_list):
     """
     Opens a csv file that contains all the a list of the URLs of the businesses
+    
     :param base_dir: the base directory
     :param file_name: the file name of the csv file
     :param b_id_list: the list of business id in the csv file
@@ -54,6 +55,7 @@ def opener(base_dir, file_name, b_id_list, url_id_list, url_list):
 def write(base_dir, file_name, lst):
     """
     Writes analyzed url into new file
+    
     :param base_dir: the base directory
     :param file_name: the file name of the csv file
     :param lst: the content being writen into file
