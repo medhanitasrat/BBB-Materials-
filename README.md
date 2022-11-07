@@ -47,7 +47,7 @@ On **URLVerification.py** add the base directory and file name on lines 7 and 16
 .
 .
 .
-16  file_name = 'Enter the file name if the file you want to read here'
+16  file_name = 'Enter the file name of the file you want to read here'
 ```
 
 
