@@ -7,6 +7,7 @@ def get_statuscode(lst):
     """
     Gets the status code of the list of urls using threading.
     It sends a maximum of 70 (requests) threads at a time to maximize speed.
+    
     :param lst: list of urls
     :return: a list of status codes
     """
@@ -26,6 +27,7 @@ def get_statuscode(lst):
 def status_code(url, headers, timeout):
     """
     Gets a single url and returns the status code
+    
     :param url: a single url
     :param headers: a dictionary that contains user agent strings.
     User agent string is contained in the HTTP headers and is intended to identify devices requesting online content.
