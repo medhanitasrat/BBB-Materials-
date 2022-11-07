@@ -5,7 +5,7 @@ Contains three python scripts (StatusCodeChecker.py, SyntaxChecker.py, URLVerifi
 
 ## Accessing Sphinx Documentaion
 
-1) Go to the html folder
+1) Go to the html folder (You might need to download the folder on your devise before opening it)
 2) Click on index.html
      * All the information about each function and module is available on this page.
 
