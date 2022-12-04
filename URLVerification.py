@@ -24,14 +24,14 @@ def main():
         else:
             bad = [b_id_list[i], url_id_list[i], url]
             bad_syntax.append(bad)
-            write(base_dir, "bad syntax.csv", bad_syntax)
+    write(base_dir, "bad_syntax.csv", bad_syntax)
 
     status_list = StatusCodeChecker.get_statuscode(status_check)
 
     for i in range(len(uid)):
         new_f = [b_id_list[uid[i]], url_id_list[uid[i]], status_check[i], status_list[i]]
         new_file.append(new_f)
-        write(base_dir, "Analyzed Url.csv", new_file)
+    write(base_dir, "Analyzed_Url.csv", new_file)
 
 
 def opener(base_dir, file_name, b_id_list, url_id_list, url_list):
@@ -67,4 +67,3 @@ def write(base_dir, file_name, lst):
 
 if __name__ == "__main__":
     main()
-
