@@ -1,0 +1,25 @@
+badUrls
+========
+Identifies buisnesses with no URL and buisnesses with broken URLs and writes them into a new CSV file
+
+Usage
+-------------------
+
+.. _installation:
+
+
+
+.. code-block:: console
+
+   (.venv) $ pip install csv
+   (.venv) $ pip install pandas
+
+
+
+
+
+.. autofunction:: badUrls.http_error
+.. autofunction:: badUrls.syntax_error
+.. autofunction:: badUrls.no_Url
+.. autofunction:: badUrls.indentify_business
+.. autofunction:: badUrls.write

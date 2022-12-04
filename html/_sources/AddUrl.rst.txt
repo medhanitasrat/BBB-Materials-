@@ -1,0 +1,20 @@
+AddUrl
+==============
+Reads company information from csv and feeds it to a url generater tool to find a working URL
+
+Usage
+-------------------
+
+.. _installation:
+
+
+
+.. code-block:: console
+
+   (.venv) $ pip install pandas
+
+
+
+
+
+.. autofunction:: AddUrl.reads

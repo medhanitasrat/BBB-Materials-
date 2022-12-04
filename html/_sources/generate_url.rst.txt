@@ -1,0 +1,33 @@
+generate_url
+==============
+Given a company information this tool will generate a potential URL :
+
+Usage
+------------------
+
+.. _installation:
+
+
+
+.. code-block:: console
+
+   (.venv) $ pip install urllib
+   (.venv) $ pip install urlopen
+   (.venv) $ pip install search
+   (.venv) $ pip install requests
+   (.venv) $ pip install tldextract
+   (.venv) $ pip install ssl
+
+
+
+
+
+.. autofunction:: generate_url.appends
+.. autofunction:: generate_url.clean_data
+.. autofunction:: generate_url.validURl
+.. autofunction:: generate_url.getURL
+.. autofunction:: generate_url.filter
+.. autofunction:: generate_url.status_code
+.. autofunction:: generate_url.scrap
+.. autofunction:: generate_url.correctUrl
+.. autofunction:: generate_url.company_URL
