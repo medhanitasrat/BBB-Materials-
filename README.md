@@ -6,12 +6,13 @@ This project is about finding and implementing effective and powerful methods to
 ## Artifacts
 ### Documents
 
-1) Development Plan
-2) Test Plan
-3) RAD
-4) Handover document
-5) Test Report
-6) Code documentation
+1) RAD
+2) Development Plan
+3) Test Plan
+4) Test Report
+5) Code documentation
+6) Handover document
+
      * Directions for accessing sphinx documentation are available on TestEnvironment_README.md 
 7) Three README files including this one.
 ### Modules
@@ -20,13 +21,13 @@ This project is about finding and implementing effective and powerful methods to
     * SyntaxChecker.py
     * URLVerification.py
 
-     _more detail on this is present on TestEnvironment_README.md_
+     _More detail on this is present on [TestEnvironment_README.md](https://github.com/medhanitasrat/BBB-Materials-/blob/main/TestEnvironment_README.md)_
 2) Core algorithm 
      * AddURL.py
      * BadURL.py
      * generate_url.py
 
-      _more detail on this is present on [CoreAlgorithm_README.md](https://github.com/medhanitasrat/BBB-Materials-/blob/main/CoreAlgorithm_README.md)_
+      _More detail on this is present on [CoreAlgorithm_README.md](https://github.com/medhanitasrat/BBB-Materials-/blob/main/CoreAlgorithm_README.md)_
 
 
 
