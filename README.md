@@ -26,7 +26,7 @@ This project is about finding and implementing effective and powerful methods to
      * BadURL.py
      * generate_url.py
 
-      _more detail on this is present on CoreAlgorithm_README.md_
+      _more detail on this is present on [CoreAlgorithm_README.md](https://github.com/medhanitasrat/BBB-Materials-/blob/main/CoreAlgorithm_README.md)_
 
 
 
