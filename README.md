@@ -13,7 +13,7 @@ This project is about finding and implementing effective and powerful methods to
 5) Code documentation
 6) Handover document
 
-     * Directions for accessing sphinx documentation are available on TestEnvironment_README.md 
+     * Directions for accessing sphinx documentation are available on [TestEnvironment_README.md](https://github.com/medhanitasrat/BBB-Materials-/blob/main/TestEnvironment_README.md)_
 7) Three README files including this one.
 ### Modules
 1) Testing environment
